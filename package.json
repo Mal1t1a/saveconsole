@@ -1,6 +1,6 @@
 {
 	"name": "saveconsole",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Saves your console output (stdout and stderr) to an organized log folder.",
 	"main": "logging.js",
 	"scripts": {
