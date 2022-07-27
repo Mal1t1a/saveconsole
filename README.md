@@ -19,14 +19,14 @@ console.error("Oh no my first error!");
 
 Output:
 ==========
-> ./logs/2022-07-22-access.log
+> ./logs/2022-07-27-access.log
 ```
 [19:37:38.544] Logging setup complete.
 [19:37:38.544] My first log file!
 [19:37:38.547] ExitCode 0
 ```
 
-> ./logs/YYYY-MM-DD-error.log
+> ./logs/2022-07-27-error.log
 ```
 [19:37:38.544] Oh no my first error!
 ```
