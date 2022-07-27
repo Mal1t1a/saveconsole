@@ -1,0 +1,19 @@
+{
+	"name": "saveconsole",
+	"version": "1.0.0",
+	"description": "Saves your console output (stdout and stderr) to an organized log folder.",
+	"main": "logging.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"console",
+		"logs",
+		"file",
+		"save",
+		"stdout",
+		"stderr"
+	],
+	"author": "Myles Vanevery",
+	"license": "ISC"
+}
