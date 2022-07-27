@@ -63,7 +63,7 @@ function formatConsoleDate(date)
 	seconds = seconds < 10 ? `0${seconds}` : seconds;
 	var milliseconds = date.getMilliseconds();
 	milliseconds =  '00' + milliseconds;
-	milliseconds.slice(-3);
+	milliseconds = milliseconds.slice(-3);
 
 	return `[${hours}:${minutes}:${seconds}.${milliseconds}] `;
 }
