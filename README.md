@@ -21,12 +21,12 @@ Output:
 ==========
 > ./logs/2022-07-22-access.log
 ```
-[16:10:10.456] Logging setup complete.
-[16:10:10.456] My first log file!
-[16:10:10.458] ExitCode 0
+[19:37:38.544] Logging setup complete.
+[19:37:38.544] My first log file!
+[19:37:38.547] ExitCode 0
 ```
 
 > ./logs/YYYY-MM-DD-error.log
 ```
-[16:10:10.456] Oh no my first error!
+[19:37:38.544] Oh no my first error!
 ```
