@@ -3,6 +3,7 @@
 	"version": "1.0.3",
 	"description": "Saves your console output (stdout and stderr) to an organized log folder.",
 	"main": "logging.js",
+	"homepage": "https://github.com/Mal1t1a/saveconsole",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
@@ -14,6 +15,10 @@
 		"stdout",
 		"stderr"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Mal1t1a/saveconsole.git"
+	},
 	"author": "Myles Vanevery",
 	"license": "ISC"
 }
